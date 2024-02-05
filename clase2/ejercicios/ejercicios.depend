@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1706719078 source:c:\users\santi\onedrive\escritorio\unlam\topicos de programacion\clase2\ejercicios\funciones.c
+	"funciones.h"
+
+1706719052 c:\users\santi\onedrive\escritorio\unlam\topicos de programacion\clase2\ejercicios\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1706719060 source:c:\users\santi\onedrive\escritorio\unlam\topicos de programacion\clase2\ejercicios\main.c
+	"funciones.h"
+
